@@ -1,0 +1,8 @@
+out/*
+zip/*
+node_modules
+surviv.js
+src/cheat/data.json
+.DS_Store
+data.json
+/app.*.js
